@@ -1,0 +1,12 @@
+Hostname,Interface,Cost
+device1,Et6/1,60
+device1,Po5,10
+device2,Po20,50
+device2,Po40,60
+device2,Po5,10
+device3,Et6/1,40
+device3,Po30,20
+device4,Po20,70
+device4,Po10,10
+device4,Po20,50
+device4,Po10,10
